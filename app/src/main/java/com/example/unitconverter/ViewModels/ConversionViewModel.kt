@@ -4,7 +4,7 @@ import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.Transformations
 import androidx.lifecycle.ViewModel
-import com.example.unitconverter.Utils.Converter
+import com.example.unitconverter.Core.Converter
 import com.example.unitconverter.Models.ConversionValue
 
 class ConversionViewModel : ViewModel() {

@@ -1,6 +1,5 @@
-package com.example.unitconverter.Utils
+package com.example.unitconverter.Core
 
-import androidx.lifecycle.LiveData
 import com.example.unitconverter.Models.ConversionValue
 
 object Converter {

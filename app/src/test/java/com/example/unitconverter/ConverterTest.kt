@@ -1,7 +1,7 @@
 package com.example.unitconverter
 
 import com.example.unitconverter.Models.ConversionValue
-import com.example.unitconverter.Utils.Converter
+import com.example.unitconverter.Core.Converter
 import org.junit.Test
 
 import org.junit.Assert.*
