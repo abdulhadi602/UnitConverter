@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">UnitConverter</string>
+    <string name="value_converter">Value Converter</string>
+    <string-array name="conversions">
+        <item >CM</item>
+        <item >M</item>
+        <item >KG</item>
+        <item >G</item>
+    </string-array>
+</resources>
